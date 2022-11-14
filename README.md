@@ -12,7 +12,6 @@ Uma empresa de consultoria que atua em Big Data e Data Science deseja contratar 
 
 A empresa quer saber quais desses candidatos realmente querem trabalhar para a empresa após o treinamento ou estão apenas fazendo o treinamento para retornarem ao mercado à procura de um novo emprego.
 
-O objetivo é contratar os profissionais com perfil adequado, a fim de reduzir o custo e o tempo de contratação, bem como a qualidade do treinamento ou planejamento dos cursos e categorização dos candidatos.
 
 Informações relacionadas a dados demográficos, educação e experiência estão disponíveis no conjunto de dados fornecido.
 
