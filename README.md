@@ -1,4 +1,6 @@
-# **🧑🏽‍💼 Análise de dados de RH com python 🐍**
+# ![](https://drive.google.com/file/d/194Gni68yCXV1ogdOU0E49QuPXNTV_JCR/view?usp=sharing)
+
+## **🧑🏽‍💼 Análise de dados de RH com python 🐍**
 
 ## ✅ **Objetivo**
 
