@@ -1,4 +1,4 @@
-# ![]([https://drive.google.com/file/d/194Gni68yCXV1ogdOU0E49QuPXNTV_JCR/view?usp=sharing](https://drive.google.com/file/d/194Gni68yCXV1ogdOU0E49QuPXNTV_JCR/view?usp=sharing))
+# ![](https://github.com/alletsc/analise_rh/blob/main/capa_projetos.png?raw=true)
 
 ## **🧑🏽‍💼 Análise de dados de RH com python 🐍**
 
